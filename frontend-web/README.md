@@ -2,6 +2,10 @@
 
 This is a full-stack, hybrid application built for an intern screening task. It allows users to upload a CSV file of chemical equipment data, which is then analyzed by a Django backend and visualized on both a React web application and a PyQt5 desktop application.
 
+#THE VIDEO DEMO :
+https://youtu.be/0FlQXLwhRLM
+
+
 ## 🚀 Features
 
 * **Hybrid Application:** Single Django backend serves both a web (React) and desktop (PyQt5) client.
